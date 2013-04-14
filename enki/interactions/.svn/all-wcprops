@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/enki/!svn/ver/149/trunk/enki/interactions
+END
+Microphone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/enki/!svn/ver/76/trunk/enki/interactions/Microphone.cpp
+END
+IRSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/enki/!svn/ver/129/trunk/enki/interactions/IRSensor.cpp
+END
+ActiveSoundSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/enki/!svn/ver/84/trunk/enki/interactions/ActiveSoundSource.cpp
+END
+Bluetooth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/enki/!svn/ver/76/trunk/enki/interactions/Bluetooth.cpp
+END
+CircularCam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/enki/!svn/ver/149/trunk/enki/interactions/CircularCam.cpp
+END
+Microphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/enki/!svn/ver/76/trunk/enki/interactions/Microphone.h
+END
+IRSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/enki/!svn/ver/128/trunk/enki/interactions/IRSensor.h
+END
+ActiveSoundSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/enki/!svn/ver/76/trunk/enki/interactions/ActiveSoundSource.h
+END
+Bluetooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/enki/!svn/ver/76/trunk/enki/interactions/Bluetooth.h
+END
+CircularCam.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/enki/!svn/ver/128/trunk/enki/interactions/CircularCam.h
+END
