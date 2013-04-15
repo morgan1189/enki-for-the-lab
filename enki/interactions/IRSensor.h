@@ -34,8 +34,8 @@
 #ifndef __ENKI_IRSENSOR_H
 #define __ENKI_IRSENSOR_H
 
-#include </Users/Sergey/enki/enki/PhysicalEngine.h>
-#include </Users/Sergey/enki/enki/Interaction.h>
+#include "../PhysicalEngine.h"
+#include "../Interaction.h"
 
 #include <valarray>
 #undef min

@@ -34,10 +34,10 @@
 #ifndef __ENKI_EPUCK_H
 #define __ENKI_EPUCK_H
 
-#include </Users/Sergey/enki/enki/robots/DifferentialWheeled.h>
-#include </Users/Sergey/enki/enki/interactions/IRSensor.h>
-#include </Users/Sergey/enki/enki/interactions/CircularCam.h>
-#include </Users/Sergey/enki/enki/interactions/Bluetooth.h>
+#include "../DifferentialWheeled.h"
+#include "../../interactions/IRSensor.h"
+#include "../../interactions/CircularCam.h"
+#include "../../interactions/Bluetooth.h"
 
 /*!	\file EPuck.h
 	\brief Header of the E-puck robot

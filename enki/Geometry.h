@@ -31,14 +31,16 @@
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
+#define _USE_MATH_DEFINES
+#include <math.h>
+
 #ifndef __ENKI_GEOMETRY_H
 #define __ENKI_GEOMETRY_H
 
 #ifdef WIN32
-#define _USE_MATH_DEFINES
 #define NOMINMAX
 #endif
-#include <cmath>
+
 #include <vector>
 #include <limits>
 #include <ostream>
